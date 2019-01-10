@@ -3,6 +3,11 @@
 	margin-top: 2em;
 }
 
+/*Project class selector*/
+.project {
+     margin-left: 20px;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+}
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
